@@ -1,0 +1,15 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+.vscode/*
+
+# Optional npm cache directory
+.npm
+package-lock.json
+
+#build directories
+www/
